@@ -1,4 +1,4 @@
-### Hi there 👋, I'm jatin Verma
+### Hi there 👋, I'm Jatin Verma
 #### Just a explorer
 ![Just a explorer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
