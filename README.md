@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jatin Verma
 #### Just a explorer
-![Just a explorer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Just a explorer]
 
 I'm  a 1st year Electrical Engineering student learning JavaScript
 
