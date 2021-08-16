@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Jatin Verma
 #### Just a explorer
-![Just a explorer]
 
 I'm  a 1st year Electrical Engineering student learning JavaScript
 
